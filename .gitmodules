@@ -1,6 +1,6 @@
 [submodule "parsers/onnx"]
 	path = parsers/onnx
-	url = https://github.com/onnx/onnx
+	url = https://github.com/onnx/onnx.git
 	branch = master
 [submodule "third_party/protobuf"]
 	path = third_party/protobuf
@@ -10,7 +10,3 @@
 	path = third_party/cub
 	url = https://github.com/NVlabs/cub.git
 	branch = 1.8.0
-[submodule "parsers/onnx-tensorrt"]
-	path = parsers/onnx-tensorrt
-	url = https://github.com/onnx/onnx-tensorrt.git
-	branch = master
